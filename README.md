@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adisiojunior&show_icons=true&locale=en" alt="adisiojunior" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adisiojunior&" alt="adisiojunior" /></p>
+
+## GitHub de Adísio Fialho Jr
+
+[<img src="https://avatars.githubusercontent.com/u/20409822?v=4" width="75px;"/>](https://github.com/adisiojunior)
+[Adísio Fialho Jr](https://github.com/adisiojunior)
