@@ -1,4 +1,4 @@
-file:///C:/Users/adisi/Documents/banner.jpg
+![banner](https://user-images.githubusercontent.com/20409822/121726807-695af680-cac1-11eb-8ae7-cc27ec670d13.jpg)
 
 <h1 align="center">Hi 👋, I'm Adísio Pereira Fialho Júnior</h1>
 <h3 align="center">E aí, Guys! Meu nome é Adísio Fialho Jr. Sou Estudante, Graduação, Desenvolvedor Web e Mobile!</h3>
