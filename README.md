@@ -1,7 +1,13 @@
 ![banner](https://user-images.githubusercontent.com/20409822/121726807-695af680-cac1-11eb-8ae7-cc27ec670d13.jpg)
 
 <h1 align="center">Hi 👋, I'm Adísio Pereira Fialho Júnior</h1>
-<h3 align="center">E aí, Guys! Meu nome é Adísio Fialho Jr. Sou Estudante, Graduação, Desenvolvedor Web e Mobile!</h3>
+<h3 align="center">Olá! 👋 Me chamo Adísio Fialho Jr.
+Sou desenvolvedor fullstack com foco em aplicações web e mobile, apaixonado por tecnologia, aprendizado constante e construção de soluções que geram valor.
+
+👨‍💻 Trabalho com C#, .NET, React, Node.js, Angular, Flutter, Python e TypeScript
+📚 Bacharel em Ciência da Computação – UFCG
+🚀 Experiência com projetos reais, APIs RESTful, banco de dados SQL/NoSQL, microserviços e clean code
+💡 Sempre buscando aprender algo novo, contribuir com a comunidade e crescer como desenvolvedor!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adisiojunior&label=Profile%20views&color=0e75b6&style=flat" alt="adisiojunior" /> </p>
 
